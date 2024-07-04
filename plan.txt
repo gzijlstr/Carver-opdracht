@@ -1,0 +1,2 @@
+Voor Carver Europe BV maak ik een C# desktop applicatie waarin ik OOP en een MySql database gebruik- 
+voor het verwerken van de gebruikers data.
